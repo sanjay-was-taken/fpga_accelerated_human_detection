@@ -242,17 +242,3 @@ fpga-edge-ai-human-detection/
 
 ---
 
-## Future Improvements
-
-- Full CNN pipeline on FPGA
-- AXI / UART communication interface
-- Streaming image input
-- Multi-neuron parallel accelerator
-- On-board Artix-7 deployment
-- Real-time edge inference
-
----
-
-## License
-
-This project is intended for educational and research purposes.
